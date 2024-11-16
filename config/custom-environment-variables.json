@@ -1,0 +1,15 @@
+{
+  "baseUrl": "baseUrl",
+  "db": "db",
+  "jwtPrivateKey": "jwtPrivateKey",
+  "smsApiToken": "smsApiToken",
+  "smsUrl": "smsUrl",
+  "sIdNonMaskingOtp": "sIdNonMaskingOtp",
+  "sIdMaskingOtp": "sIdMaskingOtp",
+  "sIdNonMasking": "sIdNonMasking",
+  "sIdMasking": "sIdMasking",
+  "androidAppSecret": "androidAppSecret",
+  "storeId": "storeId",
+  "storePassword": "storePassword",
+  "adminFrontendUrl": "adminFrontendUrl"
+}

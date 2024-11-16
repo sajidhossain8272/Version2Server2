@@ -1,0 +1,15 @@
+{
+  "baseUrl": "http://localhost:3000",
+  "db": "mongodb+srv://system:Zd5a_uFqmrqD7BZ@v2testprofile.5lk7n.mongodb.net/?retryWrites=true&w=majority&appName=v2TestProfile",
+  "jwtPrivateKey": "System-2024",
+  "smsApiToken": "RootsEdu-861d4197-2c78-4a04-bdd7-7a1965bf5998",
+  "smsUrl": "https://smsplus.sslwireless.com/api/v3/send-sms",
+  "sIdNonMaskingOtp": "ROOTSEDUNONOTP",
+  "sIdMaskingOtp": "ROOTSEDUOTP",
+  "sIdNonMasking": "ROOTSEDUNONBULK",
+  "sIdMasking": "ROOTSEDUBULK",
+  "storeId": "roots613508e0a5265",
+  "storePassword": "roots613508e0a5265@ssl",
+  "adminFrontendUrl": "https://admin.rootsedtech.com",
+  "GEOIPIFY_API_KEY":"at_kGzky131ju6loFotn4Mp3sJpcTdtr"
+}
