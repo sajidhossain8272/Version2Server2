@@ -38,7 +38,7 @@ jobs:
           echo "$SSH_PRIVATE_KEY" > private_key.pem
           chmod 600 private_key.pem
           ssh -i private_key.pem -o StrictHostKeyChecking=no $SERVER_USER@$SERVER_IP "
-          cd /path/to/your-app &&
+          cd /home/ubuntu/Version2Server2 &&
           git pull &&
           npm install &&
           pm2 restart all
