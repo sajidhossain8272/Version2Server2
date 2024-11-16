@@ -3,7 +3,7 @@ const router = express.Router();
 
 router.get('/', (req, res) => {
 
-    res.send('Panorama Server is running :) ... CI / CD is integrated... Testing ... ');
+    res.send('Panorama Server is running :) ... CI / CD is integrated... Testing ... Automated Build is successful! ');
 
 });
 
